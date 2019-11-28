@@ -1,0 +1,7 @@
+{
+    "port": 3434,
+    "host":"localhost",
+    "database":"mydb1",
+    "user": "root",
+    "password": "manager"
+}
